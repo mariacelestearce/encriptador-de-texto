@@ -1,16 +1,23 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <title>Encriptador de texto One</title>
+    <title>Encriptador de Texto - ONE Oracle</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <input type="text">  
-  <script src="encriptador-one.js"></script>
+    <div class="container">
+        <h1>Encriptador de Texto</h1>
+        <textarea id="inputText" placeholder="Escribe el texto aquí..."></textarea>
+        <button onclick="encryptText()">Encriptar</button>
+        <button onclick="decryptText()">Desencriptar</button>
+        <textarea id="outputText" placeholder="El texto encriptado aparecerá aquí..." readonly></textarea>
+    </div>
+    <footer>
+        <p>Desarrollado por: María Celeste Arce</p>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
