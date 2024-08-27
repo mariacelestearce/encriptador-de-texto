@@ -18,7 +18,7 @@ body {
 
 /* Transparencia para que el texto sea legible sobre el fondo */
 .container {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.543);
     padding: 20px;
     border-radius: 10px;
     width: 90%;
