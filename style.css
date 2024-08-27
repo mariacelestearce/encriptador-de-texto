@@ -62,7 +62,7 @@ button:last-of-type:hover {
 footer {
     margin-top: 20px;
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.8); /* Fondo negro semitransparente para el footer */
+    background-color:  rgba(0, 0, 0, 0.543; /* Fondo negro semitransparente para el footer */
     border-radius: 5px;
     text-align: center;
     color: #ccc;
