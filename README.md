@@ -1,4 +1,3 @@
-```markdown
 # Text Encryptor - ONE Oracle Course Project
 
 ![Project Banner](https://github.com/user-attachments/assets/70d9f37c-7c02-4969-a442-bf32ef2f1f2c)
