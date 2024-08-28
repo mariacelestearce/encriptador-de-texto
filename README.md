@@ -1,5 +1,3 @@
-¡Claro! A continuación te dejo una estructura para el archivo `README.md` de tu proyecto en GitHub:
-
 ```markdown
 # Text Encryptor - ONE Oracle Course Project
 
