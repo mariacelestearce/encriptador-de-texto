@@ -1,6 +1,9 @@
+¡Claro! A continuación te dejo una estructura para el archivo `README.md` de tu proyecto en GitHub:
+
+```markdown
 # Text Encryptor - ONE Oracle Course Project
 
-![Project Banner](link_to_your_image.png) <!-- Si tienes una imagen para el proyecto, puedes incluirla aquí -->
+![Project Banner]("C:\Users\celeste.arce\Downloads\Screenshot encriptador de texto ONE.png") <!-- Si tienes una imagen para el proyecto, puedes incluirla aquí -->
 
 ## Overview
 
@@ -33,33 +36,44 @@ To run this project locally, you need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
-Open the project folder:
-bash
-Copiar código
-cd your-repository-name
-Open index.html in your web browser to view the application.
-Deployment
-The project is deployed on Vercel. You can access the live version of the application here.
+   ```
+2. Open the project folder:
+   ```bash
+   cd your-repository-name
+   ```
+3. Open `index.html` in your web browser to view the application.
 
-Project Structure
-graphql
-Copiar código
+### Deployment
+
+The project is deployed on **Vercel**. You can access the live version of the application [here](https://mca-encriptador-de-texto-one.vercel.app/).
+
+## Project Structure
+
+```
 ├── index.html         # Main HTML file
 ├── styles             # Folder containing CSS files
 │   └── style.css      # Main CSS file
 ├── scripts            # Folder containing JavaScript files
 │   └── script.js      # Main JavaScript file
 └── README.md          # This README file
-Usage
-Enter the text you want to encrypt or decrypt in the provided text area.
-Click the appropriate button ("Encrypt" or "Decrypt") to process the text.
-Click "Copy" to copy the processed text to your clipboard.
-Open the developer console in your browser to view alerts when the text is copied.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+```
 
-Acknowledgments
-Alura LATAM: For providing the resources and guidance through the ONE Oracle course.
-Vercel: For offering an easy and free deployment solution.
-Connect with Me
-Feel free to reach out via LinkedIn for any questions or collaboration opportunities!
+## Usage
+
+1. Enter the text you want to encrypt or decrypt in the provided text area.
+2. Click the appropriate button ("Encrypt" or "Decrypt") to process the text.
+3. Click "Copy" to copy the processed text to your clipboard.
+4. Open the developer console in your browser to view alerts when the text is copied.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- **Alura LATAM**: For providing the resources and guidance through the ONE Oracle course.
+- **Vercel**: For offering an easy and free deployment solution.
+
+## Connect with Me
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maria-celeste-arce/) for any questions or collaboration opportunities!
