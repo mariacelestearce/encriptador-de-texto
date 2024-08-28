@@ -1,7 +1,7 @@
 ```markdown
 # Text Encryptor - ONE Oracle Course Project
 
-![Project Banner]("C:\Users\celeste.arce\Downloads\Screenshot encriptador de texto ONE.png") <!-- Si tienes una imagen para el proyecto, puedes incluirla aquí -->
+![Project Banner](https://github.com/user-attachments/assets/70d9f37c-7c02-4969-a442-bf32ef2f1f2c)
 
 ## Overview
 
@@ -33,7 +33,7 @@ To run this project locally, you need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/mariacelestearce/encriptador-de-texto.git
    ```
 2. Open the project folder:
    ```bash
